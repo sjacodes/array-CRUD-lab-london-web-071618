@@ -26,6 +26,21 @@ def retrieve_element_from_index(array, index_number)
   
 end
 
+
+famous_cats =  ["Cheshire Cat", "Puss in Boots", "Garfield"]
+ 
+famous_cats[1]
+#  └── "Puss in Boots"
+ 
+famous_cats[0]
+#  └── "Cheshire Cat"
+ 
+famous_cats[2]
+#  └── "Garfield"
+
+
+
+
 def retrieve_first_element_from_array(array)
   
 end
